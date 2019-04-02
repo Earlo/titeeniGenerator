@@ -1,7 +1,7 @@
-### Run Order  
+# Run Order  
 ## 1. generate_pictures.py
 
-This applies different levels of effet to each excisting asset
+This applies different levels of effect to each existing asset
 
 ## 2. generate_item_json.py
 
