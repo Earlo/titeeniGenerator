@@ -1,0 +1,7 @@
+*.xlsx
+.DS*
+codes/*
+results/*
+*.zip
+qrcodes.json
+items.json
